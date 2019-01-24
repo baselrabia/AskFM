@@ -1,4 +1,5 @@
-# askfm-api
+# AskFM
+# This script not work any more, for documentation only!
 Ask.FM Unofficial API
 
 Website Name : ASK.FM<br />
